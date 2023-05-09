@@ -11,3 +11,5 @@ First some basic classification models should be tested, like Random Forest, K-N
 
 ## Results
 Here is a table containing all the model's performance scores (Accuracy, R2, etc.) The best model turned out to be the Decistion Tree Classifier with an accuracy of 0.989, very close to 99%. Originally the Decision Tree model test accuracy was 96.8% and training accuracy was 100%. Since there was overfitting, the depth of the tree was cut by one and some features were ignored. 
+
+![Screen Shot 2023-05-09 at 8 56 44 AM](https://github.com/willm625/Oil-Spill-Analysis/assets/42680104/10e07c8c-3331-4221-a9f9-e8025cf25b31)
